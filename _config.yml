@@ -1,0 +1,28 @@
+name: Datenight Adventures
+favicon: null
+layout_spectrum: 0.6553071537055075
+typography_spectrum: 0.44354340760037303
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.034460038878023624
+  lightness: 0.7079385467804968
+  saturation: 0.04223935934714973
+  rhythmicContrast: 0.9818161928560585
+purpose: []
